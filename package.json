@@ -7,10 +7,7 @@
     "generate": "./scripts/generate.sh",
     "clear": "./scripts/clear.sh"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/luap2703/nextjs-ts-routes-generator.git"
-  },
+  "repository": "git+https://github.com/luap2703/nextjs-ts-routes-generator.git",
   "keywords": [
     "nextjs",
     "router",
