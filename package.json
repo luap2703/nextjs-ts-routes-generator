@@ -1,0 +1,29 @@
+{
+  "name": "github-nextjs-paths",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "scripts": {
+    "config": "./scripts/config.sh",
+    "generate": "./scripts/generate.sh",
+    "clear": "./scripts/clear.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luap2703/nextjs-ts-routes-generator.git"
+  },
+  "keywords": [
+    "nextjs",
+    "router",
+    "pages",
+    "typescript",
+    "paths",
+    "router.push"
+  ],
+  "author": "luap2703",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luap2703/nextjs-ts-routes-generator/issues"
+  },
+  "homepage": "https://github.com/luap2703/nextjs-ts-routes-generator#readme",
+  "description": ""
+}
